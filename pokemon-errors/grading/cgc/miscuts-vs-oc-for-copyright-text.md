@@ -26,10 +26,10 @@ To help with this I've compiled the list below of cards that are missing a porti
 
 These cards were all classified as off-centered and not a minor miscut. To qualify for CGC's minor miscut qualification you will need a portion of the **body** of the card missing, not just the copyright text at the bottom. 
 
-* https://archive.ph/llBgY
-* https://archive.ph/YlaxF
-* https://archive.ph/X2rtj
-* https://archive.ph/DmSrp
-* https://archive.ph/VoQHy
-* https://archive.ph/jGM1R
-* https://archive.ph/WzZvS
+* <a href="https://archive.ph/llBgY" target="_blank">https://archive.ph/llBgY</a>
+* <a href="https://archive.ph/YlaxF" target="_blank">https://archive.ph/YlaxF</a>
+* <a href="https://archive.ph/X2rtj" target="_blank">https://archive.ph/X2rtj</a>
+* <a href="https://archive.ph/DmSrp" target="_blank">https://archive.ph/DmSrp</a>
+* <a href="https://archive.ph/VoQHy" target="_blank">https://archive.ph/VoQHy</a>
+* <a href="https://archive.ph/jGM1R" target="_blank">https://archive.ph/jGM1R</a>
+* <a href="https://archive.ph/WzZvS" target="_blank">https://archive.ph/WzZvS</a>
